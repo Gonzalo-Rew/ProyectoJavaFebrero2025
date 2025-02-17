@@ -11,6 +11,6 @@ package com.mycompany.ejemplojava2025;
 public class EjemploJava2025 {
 
     public static void main(String[] args) {
-        System.out.println("Hola, soy Gonzalo");
+        System.out.println("Hola, soy Gonzalo, este archivo ha sido modificado esde GitHub");
     }
 }
